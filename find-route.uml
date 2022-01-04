@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JavaScript-modules-diagram</ID>
+  <OriginalElement>C:/Projects/Django/find-route</OriginalElement>
+  <nodes>
+    <node x="537.0" y="1998.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/base.css</node>
+    <node x="1534.0" y="299.0">C:/Projects/Django/find-route/src/cities/templates/cities/base.html</node>
+    <node x="1485.0" y="566.0">C:/Projects/Django/find-route/src/templates/base.html</node>
+    <node x="356.0" y="902.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/base.html</node>
+    <node x="796.0" y="255.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/change_form.html</node>
+    <node x="547.0" y="252.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/change_list.html</node>
+    <node x="768.0" y="791.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/auth/user/change_password.html</node>
+    <node x="0.0" y="2075.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/views/templates/default_urlconf.html</node>
+    <node x="2030.0" y="1226.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/delete_confirmation.html</node>
+    <node x="1743.0" y="1498.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/delete_selected_confirmation.html</node>
+    <node x="519.0" y="1878.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/fonts.css</node>
+    <node x="338.0" y="2016.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/forms.css</node>
+    <node x="631.0" y="510.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/index.html</node>
+    <node x="477.0" y="809.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/login.html</node>
+    <node x="682.0" y="417.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/registration/password_change_form.html</node>
+    <node x="98.0" y="383.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_confirm.html</node>
+    <node x="448.0" y="623.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_form.html</node>
+    <node x="0.0" y="513.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/popup_response.html</node>
+    <node x="221.0" y="74.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/prepopulated_fields_js.html</node>
+    <node x="1241.0" y="1395.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/widgets/related_widget_wrapper.html</node>
+    <node x="177.0" y="290.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/search_form.html</node>
+    <node x="144.0" y="1529.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#ContainerCSS#123609;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#DropdownCSS#122374;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InitSelection#120805;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InputCompat#130678;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#Query#120585;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#jquery#789;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#translations#62889;</node>
+    <node x="227.0" y="1226.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.min.js#jquery#272;</node>
+    <node x="297.0" y="716.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/edit_inline/tabular.html</node>
+    <node x="317.0" y="1878.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/widgets.css</node>
+    <node x="758.0" y="1392.0">C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;</node>
+    <node x="75.0" y="1878.0">/static/admin/css/fonts.css</node>
+    <node x="651.0" y="1552.0">build</node>
+    <node x="62.0" y="1390.0">compat/containerCss</node>
+    <node x="1.0" y="1698.0">compat/dropdownCss</node>
+    <node x="412.0" y="1539.0">compat/initSelection</node>
+    <node x="0.0" y="1542.0">compat/inputData</node>
+    <node x="401.0" y="1720.0">compat/query</node>
+    <node x="1755.0" y="443.0">https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css</node>
+    <node x="1537.0" y="659.0">https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js</node>
+    <node x="1263.0" y="610.0">https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css</node>
+    <node x="1299.0" y="294.0">https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js</node>
+    <node x="1481.0" y="0.0">https://code.jquery.com/jquery-3.2.1.slim.min.js</node>
+    <node x="1670.0" y="852.0">https://code.jquery.com/jquery-3.6.0.min.js</node>
+    <node x="266.0" y="1376.0">jquery</node>
+    <node x="575.0" y="1393.0">matchrecursive</node>
+    <node x="180.0" y="1781.0">path</node>
+    <node x="722.0" y="1655.0">unicode-base</node>
+    <node x="898.0" y="1643.0">unicode-blocks</node>
+    <node x="756.0" y="1226.0">unicode-categories</node>
+    <node x="955.0" y="1299.0">unicode-properties</node>
+    <node x="990.0" y="1492.0">unicode-scripts</node>
+    <node x="413.0" y="1129.0">{% block stylesheet %}{% static</node>
+    <node x="2.0" y="1043.0">{% block stylesheet_rtl %}{% static</node>
+    <node x="499.0" y="500.0">{% static</node>
+    <node x="1169.0" y="1226.0">{% static 'admin/img/icon-addlink.svg' %}</node>
+    <node x="1500.0" y="1302.0">{% static 'admin/img/icon-changelink.svg' %}</node>
+    <node x="1235.0" y="1561.0">{% static 'admin/img/icon-deletelink.svg' %}</node>
+    <node x="2015.0" y="1377.0">{% static 'admin/js/cancel.js' %}</node>
+    <node x="1060.0" y="323.0">{% static 'admin/js/change_form.js' %}</node>
+    <node x="79.0" y="777.0">{% static 'admin/js/nav_sidebar.js' %}</node>
+    <node x="662.0" y="0.0">{% url 'admin:jsi18n' %}</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/widgets/related_widget_wrapper.html" target="{% static 'admin/img/icon-deletelink.svg' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#ContainerCSS#123609;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#DropdownCSS#122374;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InitSelection#120805;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InputCompat#130678;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#Query#120585;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#jquery#789;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#translations#62889;" target="compat/initSelection">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#ContainerCSS#123609;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#DropdownCSS#122374;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InitSelection#120805;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InputCompat#130678;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#Query#120585;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#jquery#789;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#translations#62889;" target="path">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/change_list.html" target="{% url 'admin:jsi18n' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/templates/base.html" target="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#ContainerCSS#123609;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#DropdownCSS#122374;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InitSelection#120805;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InputCompat#130678;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#Query#120585;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#jquery#789;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#translations#62889;" target="compat/inputData">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/widgets/related_widget_wrapper.html" target="{% static 'admin/img/icon-changelink.svg' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/cities/templates/cities/base.html" target="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/base.css" target="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/fonts.css">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/forms.css" target="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/widgets.css">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/popup_response.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/delete_selected_confirmation.html" target="{% static 'admin/js/cancel.js' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;" target="build">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/templates/base.html" target="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/registration/password_change_form.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/delete_confirmation.html" target="{% static 'admin/js/cancel.js' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/index.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/base.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/cities/templates/cities/base.html" target="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/login.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/change_list.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/edit_inline/tabular.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;" target="unicode-categories">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;" target="unicode-blocks">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_confirm.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/templates/base.html" target="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/views/templates/default_urlconf.html" target="/static/admin/css/fonts.css">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/templates/base.html" target="https://code.jquery.com/jquery-3.6.0.min.js">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;" target="matchrecursive">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/base.html" target="{% static 'admin/js/nav_sidebar.js' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#ContainerCSS#123609;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#DropdownCSS#122374;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InitSelection#120805;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InputCompat#130678;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#Query#120585;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#jquery#789;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#translations#62889;" target="compat/dropdownCss">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/cities/templates/cities/base.html" target="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;" target="unicode-scripts">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.min.js#jquery#272;" target="jquery">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;" target="unicode-properties">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/auth/user/change_password.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/change_form.html" target="{% static 'admin/js/change_form.js' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#ContainerCSS#123609;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#DropdownCSS#122374;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InitSelection#120805;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InputCompat#130678;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#Query#120585;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#jquery#789;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#translations#62889;" target="compat/containerCss">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/cities/templates/cities/base.html" target="https://code.jquery.com/jquery-3.2.1.slim.min.js">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#ContainerCSS#123609;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#DropdownCSS#122374;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InitSelection#120805;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InputCompat#130678;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#Query#120585;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#jquery#789;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#translations#62889;" target="jquery">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;" target="unicode-base">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/base.html" target="{% block stylesheet_rtl %}{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/widgets/related_widget_wrapper.html" target="{% static 'admin/img/icon-addlink.svg' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/prepopulated_fields_js.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/search_form.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/templates/base.html" target="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/base.html" target="{% block stylesheet %}{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/change_form.html" target="{% url 'admin:jsi18n' %}">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/src/cities/templates/cities/base.html" target="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;" target="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#XRegExp#160350;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#build#160383;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#matchrecursive#160419;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-base#160464;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-blocks#160507;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-categories#160552;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-properties#160601;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js#unicode-scripts#160650;">
+      <point x="44.0" y="-104.0" />
+      <point x="890.0" y="1377.0" />
+      <point x="896.0" y="1371.0" />
+      <point x="949.0" y="1371.0" />
+      <point x="955.0" y="1377.0" />
+      <point x="955.0" y="1438.0" />
+      <point x="949.0" y="1444.0" />
+      <point x="88.0" y="-52.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/admin/change_form.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#ContainerCSS#123609;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#DropdownCSS#122374;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InitSelection#120805;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#InputCompat#130678;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#Query#120585;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#jquery#789;C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js#translations#62889;" target="compat/query">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_form.html" target="{% static">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal" zoom="0.40894271075919886" x="1151.0" y="1063.5" />
+  <SelectedNodes>
+    <node>C:/Projects/Django/find-route/venv/Lib/site-packages/django/contrib/admin/static/admin/css/fonts.css</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>All</Category>
+  </Categories>
+  <VISIBILITY>Details</VISIBILITY>
+</Diagram>
+
